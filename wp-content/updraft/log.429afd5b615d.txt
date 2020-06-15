@@ -1,0 +1,4 @@
+0000.000 (1) Opened log file at time: Sat, 13 Jun 2020 14:59:23 +0000 on http://enterprise.escalepro.com.br
+0000.003 (1) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 2.16.18.24 WP: 5.4.2 PHP: 7.3.16-1+bionic (litespeed, Linux cyber-panel 4.15.0-99-generic #100-Ubuntu SMP Wed Apr 22 20:32:56 UTC 2020 x86_64) MySQL: 10.1.44-MariaDB-0ubuntu0.18.04.1 WPLANG: pt_BR Server: LiteSpeed safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 9.3M | 12M) multisite: N openssl: OpenSSL 1.1.1  11 Sep 2018 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.006 (1) Free space on disk containing Updraft's temporary directory: 8845.8 MB
+0000.009 (1) This backup task (429afd5b615d) is either complete or began over 2 days ago: ending (1592060363.4002, ) (existing jobdata keys: )

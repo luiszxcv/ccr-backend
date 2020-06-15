@@ -1,0 +1,86 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+.cp-acf-fw-element {
+    margin: 5px 0;
+}
+.cp-acf-fw-label {
+    display: block;
+}
+.cp-acf-fw-text-field {
+    width: 100%;
+}
+.cp-acf-fw-text-area {
+    width: 100%;
+}
+.cp-acf-fw-element input[type='checkbox'] + label, input[type='radio'] + label {
+    margin: 0 0 0 0.2em;
+}
+.cp-acf-fw-element input[type=datetime-local]{
+    width: 100%;
+}
+.cp-acf-fw-slide-range-wrap input{
+    display: inline-block;
+    margin: 0 3px;
+}
+.cp-acf-fw-slide-range-wrap input[type=number]{
+    height: 30px;
+    width: 50px;
+    min-width: 40px;
+}
+.cp-acf-fw-slide-range-wrap input[type=range]{
+    max-width: 100%;
+    min-width: 50%;
+}
+.cp-acf-fw-slide-range-wrap span{
+    margin: 2px;
+    padding: 1px;
+}
+
+.cp-acf-fw-img-container img {
+    width: 100%;
+    height: auto;
+}
+.cp-acf-fw-img-container img:hover~.cp-acf-fw-remove-btn{
+    display: block;
+}
+.cp-acf-fw-img-container .cp-acf-fw-remove-btn:hover{
+    display: block;
+}
+.cp-acf-fw-img-container .cp-acf-fw-remove-btn{
+    position: absolute;
+    bottom: 0%;
+    display: none;
+}
+.cp-acf-fw-remove-btn {
+    margin: 5px;
+    cursor: pointer;
+}
+.cp-acf-fw-total-additional-charge-wrap {
+    display: none;
+    margin: 10px 0;
+}
+.cp-acf-fw-repeater-wrap {
+    margin: 0;
+    background-color: #cedade;
+}
+.cp-acf-fw-repeater-block{
+    position: relative;
+    padding: 10px;
+
+}
+
+.cp-acf-fw-repeater-add-btn {
+    margin: 5px;
+}
+
+.cp-acf-fw-remove-repeater-btn {
+    top: 0;
+    right: -5px;
+    z-index: 999;
+}
+.cp-acf-fw-col {
+    display: inline-block;
+    vertical-align: top;
+}

@@ -1,0 +1,21 @@
+{
+    "name": "minhtran/acf-for-woocommerce",
+    "authors": [
+        {
+            "name": "Trần Quang Minh",
+            "email": "thachphathieng@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1",
+        "catsplugins/cp-core": "@dev",
+        "symfony/expression-language": "^4.3"
+    },
+    "repositories": [{
+        "type": "git",
+        "url":  "https://gitlab.com/catsplugins/thecoreframework/cp-core.git"
+    }],
+    "config": {
+        "optimize-autoloader": true
+    }
+}
